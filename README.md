@@ -1,2 +1,0 @@
-# userdirectory
-Created with CodeSandbox
